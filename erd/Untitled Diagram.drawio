@@ -1,16 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2921" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1955" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aSaMx_zXElyGSIP_atLC-217" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-293.09000000000003" y="-554" width="256" height="167" as="geometry" />
+        </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" target="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="700" y="165" as="sourcePoint" />
             <mxPoint x="460" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="aSaMx_zXElyGSIP_atLC-33">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="aSaMx_zXElyGSIP_atLC-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="-230" as="targetPoint" />
           </mxGeometry>
@@ -104,14 +107,6 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-127" value="Requires" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-121" target="aSaMx_zXElyGSIP_atLC-109">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1070" y="-185" />
-              <mxPoint x="-1070" y="-305" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-24" value="Classroom" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="-90" width="250" height="70" as="geometry" />
         </mxCell>
@@ -133,14 +128,24 @@
             <mxPoint x="460" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" target="aSaMx_zXElyGSIP_atLC-11">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="aSaMx_zXElyGSIP_atLC-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="-129.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" target="aSaMx_zXElyGSIP_atLC-24">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-221" value="&quot;L&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-34">
+          <mxGeometry x="-0.0205" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" target="aSaMx_zXElyGSIP_atLC-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="-129.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-222" value="&quot;C&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-35">
+          <mxGeometry x="0.0522" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-33">
@@ -152,7 +157,7 @@
           <mxGeometry x="540" y="-200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-37" value="Media" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-80" width="250" height="130" as="geometry" />
+          <mxGeometry x="-3.552713678800501e-15" y="-90" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-37">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -194,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-62" value="Computer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="50" width="250" height="190" as="geometry" />
+          <mxGeometry x="300" y="10" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-63" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-62">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -262,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-78" value="Instructor" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-260.09000000000003" y="-380" width="250" height="220" as="geometry" />
+          <mxGeometry x="-290" y="-360" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-79" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-78">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -343,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-94" value="Time Slot" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="99.90999999999997" y="-380" width="250" height="160" as="geometry" />
+          <mxGeometry x="99.90999999999997" y="-360" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-95" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-94">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -398,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-108" value="Course" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010.09" y="-350" width="250" height="220" as="geometry" />
+          <mxGeometry x="-293.09" y="-770" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-109" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -408,26 +413,13 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-111" value="TSIS" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-109">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-112" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
-          <mxGeometry y="60" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-113" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-112">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-114" value="Course ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-112">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-111" value="Course ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-109">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-115" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
-          <mxGeometry y="90" width="250" height="30" as="geometry" />
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-116" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-115">
           <mxGeometry width="30" height="30" as="geometry">
@@ -440,7 +432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-118" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
-          <mxGeometry y="120" width="250" height="30" as="geometry" />
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-119" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-118">
           <mxGeometry width="30" height="30" as="geometry">
@@ -453,7 +445,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-121" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
-          <mxGeometry y="150" width="250" height="30" as="geometry" />
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-122" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-121">
           <mxGeometry width="30" height="30" as="geometry">
@@ -466,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-141" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-108">
-          <mxGeometry y="180" width="250" height="30" as="geometry" />
+          <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-142" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-141">
           <mxGeometry width="30" height="30" as="geometry">
@@ -478,8 +470,21 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-128" value="Section" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-620.09" y="-350" width="250" height="130" as="geometry" />
+        <mxCell id="aSaMx_zXElyGSIP_atLC-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aSaMx_zXElyGSIP_atLC-108" source="aSaMx_zXElyGSIP_atLC-121" target="aSaMx_zXElyGSIP_atLC-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="135" />
+              <mxPoint x="-40" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-226" value="Requires" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-127">
+          <mxGeometry x="0.0135" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-128" value="Section" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;perimeterSpacing=5;strokeColor=default;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-290.09000000000003" y="-550" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-129" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-128">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -494,8 +499,21 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-132" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-128">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-208" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-128">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-209" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-208">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-210" value="Course ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-208">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-132" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-128">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-133" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-132">
           <mxGeometry width="30" height="30" as="geometry">
@@ -508,7 +526,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-148" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-128">
-          <mxGeometry y="90" width="250" height="30" as="geometry" />
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-149" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-148">
           <mxGeometry width="30" height="30" as="geometry">
@@ -520,27 +538,26 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-141" target="aSaMx_zXElyGSIP_atLC-129">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aSaMx_zXElyGSIP_atLC-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;entryX=-0.003;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-141" target="aSaMx_zXElyGSIP_atLC-217">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="-481" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-154" value="Has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-144">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-154" value="Offers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-144">
           <mxGeometry x="-0.0082" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-152" value="Taught by" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-148" target="aSaMx_zXElyGSIP_atLC-79">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-155" target="aSaMx_zXElyGSIP_atLC-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-155" target="aSaMx_zXElyGSIP_atLC-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-200" value="Specifies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-158">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-200" value="Prefers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-158">
           <mxGeometry x="0.0095" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-159" value="Schedule" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-800" width="250" height="190" as="geometry" />
+        <mxCell id="aSaMx_zXElyGSIP_atLC-159" value="Schedule" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="99.91" y="-640" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-160" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -550,26 +567,39 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-162" value="Semester" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-160">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-162" value="Schedule ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-160">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-176" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-214" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-177" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-176">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-215" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-214">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-178" value="Year" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-176">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-216" value="Year" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-214">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-211" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-212" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-211">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-213" value="Semester" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-211">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-166" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
-          <mxGeometry y="90" width="250" height="30" as="geometry" />
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-167" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-166">
           <mxGeometry width="30" height="30" as="geometry">
@@ -582,20 +612,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-179" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
-          <mxGeometry y="120" width="250" height="30" as="geometry" />
+          <mxGeometry y="150" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-180" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-179">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+          <mxGeometry width="30" height="20" as="geometry">
+            <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-181" value="Section ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-179">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="220" height="20" as="geometry">
+            <mxRectangle width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-182" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-159">
-          <mxGeometry y="150" width="250" height="30" as="geometry" />
+          <mxGeometry y="170" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-183" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="aSaMx_zXElyGSIP_atLC-182">
           <mxGeometry width="30" height="30" as="geometry">
@@ -607,23 +637,20 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-166" target="aSaMx_zXElyGSIP_atLC-5">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-166" target="aSaMx_zXElyGSIP_atLC-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="-695" />
-              <mxPoint x="330" y="-535" />
-              <mxPoint x="390" y="-535" />
+              <mxPoint x="390" y="-505" />
               <mxPoint x="390" y="-375" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-129" target="aSaMx_zXElyGSIP_atLC-179">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;exitX=1.002;exitY=0.305;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-217" target="aSaMx_zXElyGSIP_atLC-166">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="-320" as="sourcePoint" />
+            <mxPoint x="100" y="-510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-350" y="-305" />
-              <mxPoint x="-350" y="-440" />
-              <mxPoint x="15" y="-440" />
-              <mxPoint x="15" y="-665" />
+              <mxPoint x="30" y="-503" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -633,10 +660,10 @@
         <mxCell id="aSaMx_zXElyGSIP_atLC-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-56" target="aSaMx_zXElyGSIP_atLC-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="-285" />
-              <mxPoint x="370" y="-140" />
-              <mxPoint x="260" y="-140" />
-              <mxPoint x="260" y="-35" />
+              <mxPoint x="390" y="-285" />
+              <mxPoint x="390" y="-140" />
+              <mxPoint x="270" y="-140" />
+              <mxPoint x="270" y="-45" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -645,12 +672,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-194" target="aSaMx_zXElyGSIP_atLC-38">
+        <mxCell id="aSaMx_zXElyGSIP_atLC-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-194" target="aSaMx_zXElyGSIP_atLC-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aSaMx_zXElyGSIP_atLC-198" value="Trained for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-197">
-          <mxGeometry x="-0.5568" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="aSaMx_zXElyGSIP_atLC-223" value="Trained for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-197">
+          <mxGeometry x="-0.0078" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-18" target="aSaMx_zXElyGSIP_atLC-63">
@@ -658,6 +685,17 @@
         </mxCell>
         <mxCell id="aSaMx_zXElyGSIP_atLC-203" value="Has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSaMx_zXElyGSIP_atLC-201">
           <mxGeometry x="0.0078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSaMx_zXElyGSIP_atLC-228" value="Taught by" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aSaMx_zXElyGSIP_atLC-148" target="aSaMx_zXElyGSIP_atLC-79">
+          <mxGeometry x="0.0093" relative="1" as="geometry">
+            <mxPoint x="-37" y="-421" as="sourcePoint" />
+            <mxPoint x="-40" y="-315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-330" y="-415" />
+              <mxPoint x="-330" y="-315" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
