@@ -184,7 +184,7 @@
         <mxCell id="awbqlO3b8IWFAWvkPjFu-94" value="LotNumber" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="awbqlO3b8IWFAWvkPjFu-157">
           <mxGeometry x="650" y="391" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-98" value="CREATED_FROM" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="awbqlO3b8IWFAWvkPjFu-157">
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-98" value="RAW_MATERIALS_USAGE" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="awbqlO3b8IWFAWvkPjFu-157">
           <mxGeometry x="50" y="480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-99" value="LotNumber" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="awbqlO3b8IWFAWvkPjFu-157">
