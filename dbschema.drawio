@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0" version="27.0.5">
   <diagram name="Page-1" id="d1vjwxluklCiD5EcFsX2">
-    <mxGraphModel>
+    <mxGraphModel dx="542" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-1" value="Fname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-2" value="Minit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-3" value="Lname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-4" value="Sex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-5" value="Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-6" value="Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-7" value="SSN" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="awbqlO3b8IWFAWvkPjFu-8" target="awbqlO3b8IWFAWvkPjFu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="400" />
+              <mxPoint x="170" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-8" value="SuperSSN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-10" value="&lt;div align=&quot;left&quot;&gt;EMPLOYEE&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="309" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-11" value="DName" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="111" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-12" value="DNumber" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="231" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="awbqlO3b8IWFAWvkPjFu-14" target="awbqlO3b8IWFAWvkPjFu-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="410" />
+              <mxPoint x="291" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-14" value="DNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-17" value="DEPARTMENT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-18" value="MgrSSN" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="351" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="awbqlO3b8IWFAWvkPjFu-18" target="awbqlO3b8IWFAWvkPjFu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="420" />
+              <mxPoint x="160" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-20" value="MgrStartDate" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="471" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-21" value="BDate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
