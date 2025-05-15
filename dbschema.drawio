@@ -386,7 +386,7 @@
         <mxCell id="awbqlO3b8IWFAWvkPjFu-110" value="WAREHOUSES" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="-740" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-111" value="ID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-111" value="WarehouseID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="120" y="-709" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-112" value="Location" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
@@ -430,16 +430,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-137" value="WID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-137" value="WarehouseID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="480" y="-229" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-139" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-138" value="Category" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="600" y="-229" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-139" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="720" y="-229" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-141" value="WORKERS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="-140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-142" value="SSN" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-142" value="WorkerID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="120" y="-109" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-143" value="Name" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
