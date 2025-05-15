@@ -229,9 +229,6 @@
         <mxCell id="awbqlO3b8IWFAWvkPjFu-65" value="EngType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="1361" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="awbqlO3b8IWFAWvkPjFu-66" value="&lt;div&gt;JobType&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1021" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-70" value="VehicleId" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="112" y="1601" width="120" height="30" as="geometry" />
         </mxCell>
@@ -244,29 +241,43 @@
         <mxCell id="awbqlO3b8IWFAWvkPjFu-73" value="Price" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="352" y="1601" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="awbqlO3b8IWFAWvkPjFu-74" target="awbqlO3b8IWFAWvkPjFu-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-74" value="VehicleId" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="113" y="1721" width="120" height="30" as="geometry" />
+          <mxGeometry x="112" y="1721" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-75" value="CAR" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="1690" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="1690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-76" value="MaxSpeed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233" y="1721" width="120" height="30" as="geometry" />
+          <mxGeometry x="232" y="1721" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-77" value="NoOfPassengers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1721" width="120" height="30" as="geometry" />
+          <mxGeometry x="352" y="1721" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awbqlO3b8IWFAWvkPjFu-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="awbqlO3b8IWFAWvkPjFu-78" target="awbqlO3b8IWFAWvkPjFu-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="174" y="1890" />
+              <mxPoint x="80" y="1890" />
+              <mxPoint x="80" y="1660" />
+              <mxPoint x="161" y="1660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-78" value="VehicleId" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="115" y="1841" width="120" height="30" as="geometry" />
+          <mxGeometry x="114" y="1841" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-79" value="TRUCK" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="113" y="1810" width="60" height="30" as="geometry" />
+          <mxGeometry x="112" y="1810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-80" value="NoOfAxles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1841" width="120" height="30" as="geometry" />
+          <mxGeometry x="234" y="1841" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="awbqlO3b8IWFAWvkPjFu-81" value="Tonnage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1841" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="1841" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
